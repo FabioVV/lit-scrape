@@ -1,10 +1,21 @@
 # Liturgy scraper
 
-## Prerequisites - Versions used
+## Prerequisites - gradlew --version
 
-- **JDK**: 22
-- **Kotlin**: 2.3.21
-- **Gradle**: 9.6.1
+```bash
+gradle --version
+------------------------------------------------------------
+Gradle 9.6.1
+------------------------------------------------------------
+
+Build time:    ...
+Revision:      ...
+
+Kotlin:        2.3.21
+Groovy:        4.0.32
+Ant:           Apache Ant(TM) version 1.10.17 compiled on April 6 2026
+Launcher JVM:  22.0.1 (Oracle Corporation 22.0.1+8-16)
+```
 
 ## Gradle Dependecies
 ```kotlin
